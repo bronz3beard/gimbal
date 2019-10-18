@@ -223,7 +223,8 @@ plugins:
       scrollable-region-focusable: moderate
 
 ```
-
+### calling step 3 sample config file with the fllowing command:
+- `yarn run gimbal-audit --config "./.gimbalrc.yml"`
 ### CI Integration
 
 Consult with our docs for sample CI configuration files:
